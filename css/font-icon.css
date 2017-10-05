@@ -79,8 +79,9 @@
 .icon-toolbox:before {
   content: "\e014"; }
 
-.icon-briefcase:before {
-  content: "\e015"; }
+.icon-react:before {
+  content: url("../images/React.svg");
+}
 
 .icon-wallet:before {
   content: "\e016"; }
@@ -115,14 +116,16 @@
 .icon-lock:before {
   content: "\e020"; }
 
-.icon-megaphone:before {
-  content: "\e021"; }
+.icon-rails:before {
+  content: url("../images/Rails.png");
+}
 
 .icon-shield:before {
   content: "\e022"; }
 
-.icon-trophy:before {
-  content: "\e023"; }
+.icon-oop:before {
+  content: url("../images/OOP.png");
+}
 
 .icon-flag:before {
   content: "\e024"; }
@@ -169,8 +172,9 @@
 .icon-pencil:before {
   content: "\e032"; }
 
-.icon-tools:before {
-  content: "\e033"; }
+.icon-redux:before {
+  content: url("../images/Redux.png");
+}
 
 .icon-tools-2:before {
   content: "\e034"; }
@@ -193,8 +197,9 @@
 .icon-mic:before {
   content: "\e03a"; }
 
-.icon-strategy:before {
-  content: "\e03b"; }
+.icon-javascript:before {
+  content: url("../images/Javascript.png");
+}
 
 .icon-beaker:before {
   content: "\e03c"; }
@@ -227,8 +232,10 @@
 .icon-globe:before {
   content: "\e045"; }
 
-.icon-genius:before {
-  content: "\e046"; }
+.icon-ruby:before {
+  content: url("../images/Ruby.png");
+}
+
 
 .icon-map-pin:before {
   content: "\e047"; }
