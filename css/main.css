@@ -17,10 +17,10 @@ p {
 	line-height: 22.4px;
 	color: #6c7279;
 }
-h1 {
+/*h1 {
 	font-size: 65px;
 	color: #2d3033;
-}
+}*/
 h2 {
 	font-size: 40px;
 	color: #2d3033;
@@ -304,7 +304,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(../images/Coding.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -363,6 +363,17 @@ ul li {
 	color: #00aeda;
 	font-size: 50px;
 	padding-left: 15px;
+}
+
+.skill-sets {
+	text-align: center;
+
+}
+
+.h1 {
+	font-size: 266px!important;
+  color: #2d3033!important;
+  font-weight: 300;
 }
 /* ------------------------------------------------------------------------------
 	 Works
