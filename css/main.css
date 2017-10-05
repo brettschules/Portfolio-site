@@ -351,10 +351,10 @@ ul li {
 	 Serives
 -------------------------------------------------------------------------------*/
 .service-section {
-	padding-top: 100px;
+	padding-top: 50px;
 }
 .services {
-	margin-bottom: 50px;
+	margin-bottom: 40px;
 }
 .services-content {
 	padding: 0 15px;
@@ -368,6 +368,7 @@ ul li {
 
 .skill-sets {
 	text-align: center;
+	padding-top: 50px;
 
 }
 
@@ -455,6 +456,12 @@ ul li {
 	-ms-transform: translate3d(0, 0, 0);
 	-webkit-transform: translate3d(0, 0, 0);
 	transform: translate3d(0, 0, 0);
+}
+
+.projects {
+	text-align: center;
+	margin-bottom: 50px;
+
 }
 /* ------------------------------------------------------------------------------
 	 Teams
