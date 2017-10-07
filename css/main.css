@@ -515,8 +515,14 @@ ul li {
 	color: #fff;
 }
 /* ------------------------------------------------------------------------------
-	 Testimonials
+	 My Blogs
 -------------------------------------------------------------------------------*/
+.my-blogs h3 {
+	color: #fff;
+	margin-top: 0px;
+	padding-top: 40px;
+}
+
 .testimonials {
 	background-color: #00aeda;
 	position: relative;
@@ -525,7 +531,7 @@ ul li {
 .testimonials blockquote {
 	border: 0;
 	margin: 0;
-	padding: 100px 15%;
+	padding: 20px 100px 80px 100px;
 }
 .testimonials h1 {
 	color: #fff;
@@ -624,6 +630,8 @@ padding:15px 30px 15px 30px;
 	color:#5ed07b;
 	font-weight: 700;
 }
+
+
 
 /* ------------------------------------------------------------------------------
 	 Footer
